@@ -51,7 +51,7 @@
 - Já entre Título e Classe, o título pertence a uma classe, e uma classe pertence a 0 ou vários títulos.
 
 
-![Diagrama de Modelo Conceitual](https://github.com/EnzoFerreiraAguiar/UML/blob/master/Imagens_Diagramas_UML/Diagrama_De_Modelo_Conceitual_Acervo.jpeg)
+![Diagrama de Modelo Conceitual](https://github.com/EnzoFerreiraAguiar/UML/blob/master/Imagens_Dos_Diagramas/Diagrama_De_Modelo_Conceitual_Acervo.jpeg)
 
 ##
 
