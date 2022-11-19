@@ -87,6 +87,6 @@
 - E a turma tem no mínimo várias e no máximo várias disciplinas. 
 
 
-![DIagrama de Classes](https://github.com/EnzoFerreiraAguiar/UML/blob/master/Imagens_Diagramas_UML/Diagramas_De_Classes_Escola.jpeg)
+![DIagrama de Classes](https://github.com/EnzoFerreiraAguiar/UML/blob/master/Imagens_Dos_Diagramas/Diagramas_De_Classes_Escola.jpeg)
 
 
