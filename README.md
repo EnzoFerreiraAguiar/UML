@@ -34,7 +34,7 @@
 - O encerramento da estadia é feita por parte do hóspede. 
 
 
-![Diagrama de Caso de Uso](https://github.com/EnzoFerreiraAguiar/UML/blob/master/Imagens_Diagramas_UML/Diagrama_De_Caso_De_Uso_Hotelaria.jpeg)
+![Diagrama de Caso de Uso](https://github.com/EnzoFerreiraAguiar/UML/blob/master/Imagens_Dos_Diagramas/Diagrama_De_Caso_De_Uso_Hotelaria.jpeg)
 
 ##
 
