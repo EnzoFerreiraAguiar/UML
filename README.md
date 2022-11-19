@@ -66,7 +66,7 @@
 - Depois, o Servidor manda a resposta dizendo que o usuário foi registrado.
 
 
-![Diagrama de Sequência](https://github.com/EnzoFerreiraAguiar/UML/blob/master/Imagens_Diagramas_UML/Diagrama_De_Sequ%C3%AAncia_Aplicativo.jpeg)
+![Diagrama de Sequência](https://github.com/EnzoFerreiraAguiar/UML/blob/master/Imagens_Dos_Diagramas/Diagrama_De_Sequ%C3%AAncia_Aplicativo.jpeg)
 
 ##
 
