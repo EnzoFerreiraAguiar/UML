@@ -17,7 +17,7 @@
 - O losango indica uma condição, que pode ser seguida por dois ou mais caminhos. 
 
 
-![Diagrama de atividades](https://github.com/EnzoFerreiraAguiar/UML/blob/master/Imagens_Diagramas_UML/Diagrama_De_Atividades_Escrita_De_Livro.jpeg?raw=true)
+![Diagrama de atividades](https://github.com/EnzoFerreiraAguiar/UML/blob/master/Imagens_Dos_Diagramas/Diagrama_De_Atividades_Escrita_De_Livro.jpeg)
 
 ##
 
