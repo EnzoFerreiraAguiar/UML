@@ -74,7 +74,7 @@
 
 - Possui 4 classes: Aluno, Professor, Turma e Disciplina. 
 
-- As relações de Associação e Herança fora usadas. 
+- As relações de Associação e Herança foram usadas. 
 
 - A classe aluno e professor são sub-classes da classe pessoa. 
 
