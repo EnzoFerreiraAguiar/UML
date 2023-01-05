@@ -1,9 +1,6 @@
 ## Os diagramas foram desenvolvidos para revisar e reforçar conceitos aprendidos na disciplina de Modelagem de Software. 
 
 
-##
-
-
 ### Diagrama de Atividades da escrita de um livro
 
 - O diagrama representa as etapas da escrita de um livro, possuindo quatro atores: escritor, editor, revisor e a impressora. 
